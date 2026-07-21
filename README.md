@@ -2,7 +2,7 @@
 
 I'm a frontend developer and UI/UX designer passionate about crafting modern, user-centered web experiences. I enjoy transforming ideas into responsive, accessible, and visually engaging applications through thoughtful design and clean code.
 
-## 🚀 About Me
+## About Me
 
 - 💻 Frontend Developer & UI/UX Designer
 - 🎨 Passionate about creating intuitive, accessible, and visually appealing interfaces
@@ -12,7 +12,7 @@ I'm a frontend developer and UI/UX designer passionate about crafting modern, us
 - 🛠️ Love turning ideas into polished digital experiences from wireframes to deployment
 - ☕ Powered by coffee and curiosity
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
