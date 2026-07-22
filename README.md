@@ -10,8 +10,8 @@ Building modern web applications with clean, scalable code.
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://github.com/yenyan-code">
+    <img src="https://komarev.com/ghpvc/?username=yenyan-code&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
 </p>
 
@@ -20,8 +20,8 @@ Building modern web applications with clean, scalable code.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yenyan-code&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yenyan-code&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
@@ -56,11 +56,3 @@ Building modern web applications with clean, scalable code.
 </p>
 
 ---
-
-## 🤝 Connect
-
-<p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-<a href="https://yourportfolio.com">Portfolio</a> •
-<a href="mailto:you@example.com">Email</a>
-</p>
