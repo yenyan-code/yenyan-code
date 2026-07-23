@@ -17,14 +17,6 @@ Building modern web applications with clean, scalable code.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
 ## 👋 About Me
 
 - 💻 Frontend Developer & UI/UX Designer
