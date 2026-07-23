@@ -39,7 +39,7 @@ Building modern web applications with clean, scalable code.
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,python,java,figma,wordpress,git,github,vscode&perline=7"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,python,java,figma,wordpress,git,github,vscode,antigravity,claude,codex&perline=7"/>
 </p>
 
 ---
