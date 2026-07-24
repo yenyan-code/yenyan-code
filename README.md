@@ -61,12 +61,6 @@ Building modern web applications with clean, scalable code.
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=antigravity" height="40" alt="antigravity logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=claude" height="40" alt="claude logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=codex" height="40" alt="codex logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=googlecloud" height="40" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
