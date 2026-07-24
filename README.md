@@ -80,12 +80,6 @@ Building modern web applications with clean, scalable code.
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=capcut" height="40" alt=capcut logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=affinity" height="40" alt="affinity logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=canva" height="40" alt="canva logo" />
 </div>
 
 ---
