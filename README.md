@@ -21,7 +21,6 @@ Building modern web applications with clean, scalable code.
 
 - 💻 Frontend Developer & UI/UX Designer
 - 🎨 Passionate about clean, accessible, and user-centered interfaces
-- ⚛️ Building modern apps with React & Next.js
 - 🤖 Exploring AI-powered experiences
 - 🌱 Always learning new technologies
 - ☕ Coffee enthusiast
