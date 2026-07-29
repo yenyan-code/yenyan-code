@@ -22,7 +22,7 @@ Building modern web applications with clean, scalable code.
 - 💻 Frontend Developer & UI/UX Designer
 - 🎨 Passionate about clean, accessible, and user-centered interfaces
 - 🤖 Exploring AI-powered experiences
-- 🌱 Always learning new technologies
+- 🌱 Learning new technologies
 - ☕ Coffee enthusiast
 
 ---
