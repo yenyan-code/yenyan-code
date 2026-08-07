@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yen 👋</h1>
 
 <h3 align="center">
-Frontend Developer • UI/UX Designer
+UI/UX Designer • Frontend Developer
 </h3>
 
 <p align="center">
