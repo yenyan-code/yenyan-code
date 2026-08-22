@@ -60,5 +60,5 @@ Building modern web applications with clean, scalable code.
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
 </div>
--- titit
+
 ---
