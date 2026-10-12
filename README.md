@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Yen 👋</h1>
 
+<div align="center"
   <a href="https://yenyan-code.github.io/">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3200&pause=900&center=true&vCenter=true&width=760&lines=UI%2FUX+%26+Product+Designer+;Frontend+Developer;BSIT+Student" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3200&pause=900&center=true&vCenter=true&width=760&lines=UI%2FUX+%26+Product+Designer+;Frontend+Developer;BSIT+Student" alt="Typing SVG" /></a>>
+  
 <p align="center">
 Designing intuitive digital experiences.<br>
 Building modern web applications with clean, scalable code.
