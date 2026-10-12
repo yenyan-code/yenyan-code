@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Yen 👋</h1>
 
-<h3 align="center">
-UI/UX Designer • Frontend Developer
-</h3>
+<a href="https://ntworm.github.io/">
+    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=27&duration=3200&pause=900&color=F2B94B&center=true&vCenter=true&width=760&lines=Sound+direction+%C2%B7+Music+production;Creative+tools+for+performance;Cinema+%C2%B7+Sound+%C2%B7+Code" alt="UI/UX & Product Designer | Frontend Developer" />
+  </a>
 
 <p align="center">
 Designing intuitive digital experiences.<br>
