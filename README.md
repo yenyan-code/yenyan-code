@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Yen 👋</h1>
 
-<a href="https://ntworm.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=27&duration=3200&pause=900&color=F2B94B&center=true&vCenter=true&width=760&lines=Sound+direction+%C2%B7+Music+production;Creative+tools+for+performance;Cinema+%C2%B7+Sound+%C2%B7+Code" alt="UI/UX & Product Designer | Frontend Developer" />
-  </a>
+<a align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=UI%2FUX+%26+Product+Designer+;Frontend+Developer" alt="Typing SVG" /></a>
 
 <p align="center">
 Designing intuitive digital experiences.<br>
