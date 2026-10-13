@@ -20,7 +20,7 @@ Building modern web applications with clean, scalable code.
 
 ## 👋 About Me
 
-- 💻 BSIT Student, UI/UX and Product Designer & Frontend Developer
+- 💻 UI/UX & Product Designer, Frontend Developer & BSIT Student
 - 🎨 Passionate about clean, accessible, and user-centered interfaces
 - 🤖 Exploring AI-powered experiences
 - 🌱 Learning new technologies
